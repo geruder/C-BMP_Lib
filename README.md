@@ -69,5 +69,5 @@ Here is the result of the library's processing capabilities:
 
 | Original Input | Processed Output |
 | :---: | :---: |
-| ![Original](assets/airplane.bmp) | ![Processed](test_output.bmp) |
+| ![Original](assets/airplane.bmp) | ![Processed](assets/test_output.bmp) |
 | *airplane.bmp* | *test_output.bmp* |
