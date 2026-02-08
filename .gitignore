@@ -5,8 +5,6 @@
 test_app
 test_app.exe
 *.exe
-test_output.bmp
-output.bmp
 .vscode/
 Thumbs.db
 desktop.ini
